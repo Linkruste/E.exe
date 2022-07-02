@@ -1,0 +1,16 @@
+C:\Users\matha\source\repos\E\bin\Release\E.exe.config
+C:\Users\matha\source\repos\E\bin\Release\E.exe
+C:\Users\matha\source\repos\E\bin\Release\E.pdb
+C:\Users\matha\source\repos\E\obj\Release\MainWindow.g.cs
+C:\Users\matha\source\repos\E\obj\Release\App.g.cs
+C:\Users\matha\source\repos\E\obj\Release\E_MarkupCompile.cache
+C:\Users\matha\source\repos\E\obj\Release\E_MarkupCompile.lref
+C:\Users\matha\source\repos\E\obj\Release\MainWindow.baml
+C:\Users\matha\source\repos\E\obj\Release\E.g.resources
+C:\Users\matha\source\repos\E\obj\Release\E.Properties.Resources.resources
+C:\Users\matha\source\repos\E\obj\Release\E.csproj.GenerateResource.cache
+C:\Users\matha\source\repos\E\obj\Release\E.csproj.CoreCompileInputs.cache
+C:\Users\matha\source\repos\E\obj\Release\E.exe
+C:\Users\matha\source\repos\E\obj\Release\E.pdb
+C:\Users\matha\source\repos\E\obj\Release\E_Content.g.cs
+C:\Users\matha\source\repos\E\obj\Release\E.csproj.AssemblyReference.cache
